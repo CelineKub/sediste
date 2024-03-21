@@ -1,0 +1,16 @@
+{
+  "name": "sediste",
+  "version": "1.0.0",
+  "main": "REST.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CelineKub/sediste.git"
+  },
+  "keywords": [
+    "rest",
+    "yii2",
+    "js"
+  ],
+  "author": "JimmieLindgren",
+  "license": "MIT"
+}
